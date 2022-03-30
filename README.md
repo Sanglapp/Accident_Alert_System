@@ -1,1 +1,2 @@
 # Accident_Alert_System
+A smart vehicle is a special idea which makes vehicle driving safer than before. This is implemented using Arduino. We have placed vibration sensor in our vehicle system to detect the vibration that occurred for accident. So when the rider crashes the sensor senses the vibration and the Arduino extract GPS data using GPS module that is interfaced with Arduino. So when it exceeds a minimum limit then GSM module automatically sends message to ambulance or police or family members.
